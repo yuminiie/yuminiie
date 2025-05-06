@@ -1,2 +1,2 @@
-### Hi 👋 I'm Yumin 😺
+### Hi I'm Yumin 😺
 
