@@ -26,7 +26,7 @@
 
 <hr>
 
-<!-- 예시 코드 블록 (Gist 없이) -->
+<!-- 예시 코드 블록 -->
 ### My Example Code
 ```java
 public class Example {
