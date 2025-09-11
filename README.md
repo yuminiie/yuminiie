@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&height=200&fontAlign=80&fontSize=90&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=70&height=250&fontAlign=50&fontAlignY=50&color=_custom_gradient&customColorList=0:FFC0CB,100:FF69B4&fontColor=FFFFFF)
