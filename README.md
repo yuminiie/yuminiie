@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%20Yumin!)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Yumin's%20records)
 
 
