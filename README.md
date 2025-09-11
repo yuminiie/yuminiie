@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=70&height=250&fontAlign=50&fontAlignY=50&color=gradient&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=70&height=250&color=gradient&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <span style="font-size:24px; font-weight:bold;">☘️ I'm learning...</span>
+### **☘️ I'm learning...**
 </p>
 
 <hr>
