@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=70&height=250&fontAlign=50&fontAlignY=50&color=gradient&fontColor=FFFFFF" />
+  ###☘️I'm learning... 
 </p>
 
 ---
 
 <p align="center">
-  ### My Stack
   <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
