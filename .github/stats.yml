@@ -1,0 +1,14 @@
+name: Generate Stats
+
+on:
+  schedule: # 매일 갱신
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.PAT_1 }}
