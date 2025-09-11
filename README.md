@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-☘️ **I'm learning...**
+###☘️ I'm learning...
 </p>
 
 ---
