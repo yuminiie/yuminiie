@@ -26,11 +26,3 @@
 
 <hr>
 
-<!-- 예시 코드 블록 -->
-### My Example Code
-```java
-public class Example {
-    public static void main(String[] args) {
-        System.out.println("Hello, GitHub README!");
-    }
-}
