@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=90&height=300&color=gradient)
 
+<p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Yumin's%20Records&fontSize=70&height=250&fontAlign=50&fontAlignY=50&color=gradient&fontColor=FFFFFF)
+</p>
+
 ---
 
 <p align="center">
