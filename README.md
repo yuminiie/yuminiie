@@ -19,10 +19,7 @@
 
 <hr>
 
-<!-- Top Langs 카드 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminiie&layout=compact" />
-</p>
+![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuminiie&count_private=true)
 
 <hr>
 
