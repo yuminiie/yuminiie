@@ -1,1 +1,1 @@
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/kr/album/your-eyes-only/1752178854?i=1752178869)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tawbdh7zejwavddsfrwifmt6i4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
